@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C programming: an infinite loop caused by an incorrect while loop condition. The provided `bug.c` file contains the erroneous code. The solution is in `bugSolution.c` which fixes the increment condition of the loop, thus preventing the infinite loop.
